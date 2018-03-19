@@ -1,0 +1,16 @@
+{
+  "name": "fake-wrapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "events.js",
+  "scripts": {
+    "go": "node eventsRouter.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^1.29.0",
+    "faker": "^4.1.0",
+    "lodash": "^4.17.5"
+  }
+}
