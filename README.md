@@ -1,4 +1,5 @@
-# A dead simple set of logic for processing incoming transactions
+# Transaction ---> Cashback 
+### A dead simple set of logic for turning transactions into cashbacks
 
 ## Build Setup
 
